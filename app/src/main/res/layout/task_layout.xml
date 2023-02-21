@@ -18,7 +18,7 @@
                 android:id="@+id/todoCheckBox"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                tool:text="This is a sample task inside the application"
+                tool:text="This is a sample prescription reminder"
                 android:paddingStart="8dp"
                 android:buttonTint="@android:color/holo_blue_bright"
                 android:checked="true"/>
