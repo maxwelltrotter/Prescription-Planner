@@ -19,7 +19,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <ImageView
-        android:id="@+id/blueTwitter"
+        android:id="@+id/bluelogo"
         android:layout_width="100dp"
         android:layout_height="100dp"
         android:src="@drawable/img_3"
@@ -29,7 +29,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <ImageView
-        android:id="@+id/whiteTwitter"
+        android:id="@+id/whitelogo"
         android:layout_width="100dp"
         android:layout_height="100dp"
         android:src="@drawable/img_4"
