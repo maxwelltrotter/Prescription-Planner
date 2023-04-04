@@ -22,8 +22,8 @@ import java.util.List;
 public class ToDoAdapter extends RecyclerView.Adapter<ToDoAdapter.ViewHolder> {
 
     private List<ToDoModel> todoList;
-    private DatabaseHandler db;
-    private MainActivity activity;
+    private final DatabaseHandler db;
+    private final MainActivity activity;
 
     public ToDoAdapter(DatabaseHandler db, MainActivity activity) {
         this.db = db;
