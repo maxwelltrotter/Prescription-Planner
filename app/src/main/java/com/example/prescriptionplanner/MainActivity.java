@@ -1,5 +1,4 @@
 package com.example.prescriptionplanner;
-
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
@@ -85,4 +84,3 @@ public class MainActivity extends AppCompatActivity implements DialogCloseListen
         tasksAdapter.notifyDataSetChanged();
     }
 }
-
