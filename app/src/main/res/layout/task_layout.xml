@@ -20,7 +20,7 @@
                 android:layout_height="wrap_content"
                 tool:text="This is a sample prescription reminder"
                 android:paddingStart="8dp"
-                android:buttonTint="@android:color/holo_blue_bright"
+                android:buttonTint="#00838F"
                 android:checked="true"/>
 
         </RelativeLayout>
